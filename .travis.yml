@@ -1,4 +1,5 @@
 language: node_js
 node_js:
   - "8"
-
+notifications:
+  slack: nyu-agile-software:4Ll9V7RPK8fkqf2dGDvWiEGt
